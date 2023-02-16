@@ -1,0 +1,17 @@
+.input{
+    display: inline-block;
+    border-radius: 2px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    
+
+}
+
+.agregar {
+    background-color: rgb(7, 221, 10);
+    color: white;
+    font-weight: 700;
+    margin-left: 20px;
+    font-size: 16px;
+  
+}
